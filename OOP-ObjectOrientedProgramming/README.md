@@ -4,7 +4,7 @@
 <details>
 <summary><h3>Lista Quiz</h3></summary>
 
-|Quiz|Status|
+|Quiz|Da fare|
 |:--|:--:|
 |Introduzione al Sistema Quiz|X|
 |POO-02-paradigma-OO|X|
