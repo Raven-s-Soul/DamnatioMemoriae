@@ -1,4 +1,4 @@
-## Appunti/Quiz POO
+## Vecchi Esami / Quiz / Tricks - OOP
 > [!TIP]
 > ♨️ [Sito Quiz](http://dotto.dia.uniroma3.it:8080/quiz/student_start.do)
 <details>
