@@ -1,5 +1,5 @@
 # Database lezioni 2023/24 
-> E' una guida per chi cerca di seguire dalle lezioni passate, e si sono passato alla prima senza finire il materiale, ma vi consiglio di completarlo.
+> E' una guida per chi cerca di seguire dalle lezioni passate
 
 > [!NOTE]
 > ### Guida:
